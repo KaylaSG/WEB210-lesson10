@@ -68,10 +68,10 @@
 }
 
 
-#active{
+/* #active{
     border-top: solid 3px #cf1259;
     padding: 5%;
-}
+} */
 
 /* MAIN */
 
@@ -183,10 +183,10 @@
             margin: 15px;
         }
 
-        #active{
+        /* #active{
             background-color: #efefef;
             padding: 30%;
-        }
+        } */
     }
 
     @media screen and (min-width:720px){
@@ -277,12 +277,12 @@
             padding: 10px;
         }
 
-        #active{
+        /* #active{
             background-color: #efefef;
             padding: 5% 250px 5% 2%;
             border-left: solid 3px #cf1259;
             border-top: none;
-        }
+        } */
 
     }
 
